@@ -35,3 +35,4 @@ O modelo é treinado usando o conjunto de dados "Cats and Dogs" filtrado. Durant
 
 ## **6. Resultados e Discussão**
 Após o treinamento, é essencial revisar a precisão e a perda do modelo no conjunto de treinamento e validação. Isso ajuda a identificar qualquer sinal de sobreajuste ou subajuste. Gráficos e métricas detalhadas podem ser encontrados em `GatoECachorroModelo.ipynb`.
+
