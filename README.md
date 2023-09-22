@@ -21,6 +21,8 @@ As imagens são carregadas usando a classe `ImageDataGenerator` do TensorFlow, q
 ### **4.2 Arquitetura da Rede Neural**
 O modelo é uma CNN composta por várias camadas convolucionais seguidas por camadas totalmente conectadas. As camadas convolucionais são responsáveis por extrair características das imagens, enquanto as camadas totalmente conectadas classificam a imagem com base nessas características.
 
+![Screenshot_189](https://github.com/VitorCarvalho67/Cats-And-Dogs/assets/102667323/1b7f3ea4-eef2-4e09-ae99-0439b5b15f09)
+
 ### **4.3 Treinamento**
 O modelo é treinado usando o conjunto de dados "Cats and Dogs" filtrado. Durante o treinamento, a precisão e a perda são monitoradas em conjuntos de treinamento e validação.
 
