@@ -2,6 +2,7 @@
 
 ## **1. Visão Geral**
 Este projeto utiliza Redes Neurais Convolucionais (CNNs) para classificar imagens em duas categorias: gatos e cachorros. O objetivo é desenvolver um modelo capaz de identificar com precisão a categoria de uma imagem desconhecida.
+![01_Conceitos_DeepLearning_gato-2112726772](https://github.com/VitorCarvalho67/Cats-And-Dogs/assets/102667323/c5866d13-59ed-442e-9d47-48827d9dc2bc)
 
 ## **2. Requisitos**
 ### **Bibliotecas:**
